@@ -1,0 +1,97 @@
+.logo {
+   color: #AC0000;
+}
+
+.menu-item {
+    color: green;
+}
+
+.menu-item:visited {
+    color: #444;
+}
+.card p {
+    color: white;
+}
+
+.card button {
+    background-color: #39CA39
+
+
+}
+
+.blog-article p:first-letter {
+    margin-left: 30px;
+    
+}
+
+.blog
+{
+    background-color: #666;
+    color: #cff;
+}
+
+.gallery figure 
+{
+    transition: box-shadow 800ms;
+
+
+}
+.gallery figure:hover {
+    box-shadow: 0 12px 20px -5px #000000;
+   
+
+}
+
+.gallery figcaption {
+    padding: 8px;
+}
+
+article {
+    margin-top: 40px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .article-title {
+     text-align: center;
+ }
+ .section-header {
+     text-transform: uppercase;
+     letter-spacing: 5px;
+
+ }
+ .form-input {
+     display: block;
+     margin-bottom: 30px;
+     padding: 15px;
+     border-radius: 2em;
+     background-color: #A2A2A2;
+ }
+
+ .form-input:focus {
+    border-width: 4px;
+
+}
+
+ 
+
+
+
+.section-header::before {
+    content: '>';
+    margin-right: 4px;
+}
+
+input[type"radio"] {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+footer {
+    background-color:rgb(72, 75, 79);
+    color: #C24406; 
+}   
+.gender {
+    max-width: 200px;
+}
